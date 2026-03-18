@@ -1,0 +1,33 @@
+# Core LangGraph & LangChain
+langgraph>=0.2.0
+langchain>=0.2.0
+langchain-anthropic>=0.1.0
+langchain-core>=0.2.0
+
+# Web scraping & analysis
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+httpx>=0.25.0
+
+# Readability scoring
+textstat>=0.7.3
+
+# Database
+sqlalchemy>=2.0.0
+aiosqlite>=0.19.0
+
+# Utilities
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+typing-extensions>=4.8.0
+
+# Logging
+rich>=13.0.0
+
+# Optional: Dashboard UI
+# gradio>=4.0.0
+
+# Optional: PDF/CSV export
+# fpdf2>=2.7.0
+# pandas>=2.0.0
